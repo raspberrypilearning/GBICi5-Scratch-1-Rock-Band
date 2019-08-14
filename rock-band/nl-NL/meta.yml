@@ -1,0 +1,20 @@
+---
+hero_image: images/hero-rock-band-large.png
+listed: true
+copyedit: false
+title: Rockband
+description: Leer hoe je je eigen muziekinstrumenten kunt coderen
+version: 4.1.1
+last_tested: 2018-10-12
+steps:
+  - title: Inleiding
+  - title: Sprites
+  - title: Het speelveld
+  - title: Een trommel maken
+  - title: "Uitdaging: verbeter je drumstel"
+    challenge: true
+  - title: Een zangeres maken
+  - title: Uiterlijken
+  - title: "Uitdaging: verbeter je band"
+    challenge: true
+  - title: Wat nu?
