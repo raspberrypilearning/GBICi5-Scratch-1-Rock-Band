@@ -1,6 +1,6 @@
 --- no-print ---
 
-This is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/en/projects/rock-band-scratch2).
+This project has been prepared for **Scratch 3**.
 
 --- /no-print ---
 
@@ -30,6 +30,8 @@ title: What you will learn
 - Use code to change a sprite's costume in Scratch
 - Use code to make sprites react to input in Scratch
 - Add sounds to a sprite in Scratch
+- Understand the skills which are developed towards a career involving Computing
+
 --- /collapse ---
 
 --- collapse ---
