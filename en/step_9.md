@@ -1,4 +1,4 @@
-## What next?
+## What have you learned?
 
 Now that you've built your first Scratch project, why not take a look at the 'Lost in space'. You can find it on the Scratch 1 module pathway.
 
@@ -17,3 +17,11 @@ Click on the green flag to see the animation.
 ![Complete project](images/space-final.png)
 
 --- /print-only ---
+
+![Progress bar](images/s1-1.png)
+
+Click on the 'click me' button to try the next project
+
+![Click me button](images/Clickme.png)
+
+[![Click me button](image/Clickme.png)](https://codeclub.org/en/scratch1)
