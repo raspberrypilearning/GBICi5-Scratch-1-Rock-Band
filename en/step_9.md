@@ -17,3 +17,5 @@ Click on the green flag to see the animation.
 ![Complete project](images/space-final.png)
 
 --- /print-only ---
+
+![Progress bar](images/s1-1.png)
