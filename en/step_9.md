@@ -23,3 +23,5 @@ Click on the green flag to see the animation.
 Click on the 'click me' button to try the next project
 
 ![Click me button](images/Clickme.png)
+
+[![Click me button](image/Clickme.png)](https://codeclub.org/en/scratch1)
