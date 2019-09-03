@@ -22,4 +22,4 @@ Click on the green flag to see the animation.
 
 Click on the 'click me' button to try the next project
 
-![Click me button](images/clickme.png)
+![Click me button](images/Clickme.png)
