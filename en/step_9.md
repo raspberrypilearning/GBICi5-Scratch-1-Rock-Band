@@ -20,8 +20,8 @@ Click on the green flag to see the animation.
 
 ![Progress bar](images/s1-1.png)
 
-Click on the 'click me' button to try the next project
+Click on the 'Click me' button to try the next project:
 
-![Click me button](images/Clickme.png)
+<a href="https://codeclub.org/en/scratch1">
+<img src="images/Clickme.png">
 
-[![Click me button](image/Clickme.png)](https://codeclub.org/en/scratch1)
