@@ -1,3 +1,4 @@
+---
 hero_image: images/hero-rock-band-large.png
 listed: false
 copyedit: false
@@ -5,15 +6,15 @@ title: Rock band
 description: Learn how to code your own musical instruments
 version: 4.1.1
 last_tested: 2018-10-12
-steps: 
+steps:
 - title: Introduction
 - title: Sprites
 - title: The Stage
 - title: Making a drum
-- title: "Challenge: improve your drum"
+- title: 'Challenge: improve your drum'
   challenge: true
 - title: Making a singer
 - title: Costumes
-- title: "Challenge: improve your band"
+- title: 'Challenge: improve your band'
   challenge: true
-- title: "What have you learned?"
+- title: What have you learned?
