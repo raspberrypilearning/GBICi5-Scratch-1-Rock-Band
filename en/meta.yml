@@ -8,7 +8,6 @@ version: 4.1.1
 last_tested: 2018-10-12
 steps:
 - title: Introduction
-  completion: engaged
 - title: Sprites
 - title: The Stage
 - title: Making a drum
@@ -18,5 +17,4 @@ steps:
 - title: Costumes
 - title: 'Challenge: improve your band'
   challenge: true
-  completion: internal
 - title: What have you learned?
